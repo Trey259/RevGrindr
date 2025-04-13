@@ -1,4 +1,4 @@
-package com.example.init;
+package com.github.trey259.revgrindr.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
